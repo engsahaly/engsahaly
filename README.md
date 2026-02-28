@@ -14,8 +14,15 @@
         <br>
         <p>
             <strong>
-                Full Stack Web Developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.<br><br>
-                Well-versed in software tools including Laravel, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies . 
+                Laravel Backend Engineer with strong experience in designing scalable, maintainable, and production-ready web applications. Passionate about clean architecture, SOLID principles, and building systems that are structured, testable, and performance-optimized. <br><br>
+
+Specialized in Laravel ecosystem development with hands-on experience implementing advanced patterns and Policy-based Authorization. Experienced in building multi-tenant systems, RESTful APIs, and applying role-based access control with clean separation of concerns. <br><br>
+
+Beyond development, I’m also an instructor on Udemy and a technical content creator on YouTube, where I teach Laravel, backend architecture, and real-world software engineering practices. I enjoy breaking down complex backend concepts into practical, production-ready implementations. <br><br>
+
+Tech Stack: Laravel, PHP, MySQL, REST APIs, OOP, Design Patterns, Bootstrap, JavaScript, AJAX, HTML, CSS. <br><br>
+
+Continuously learning, exploring AI-assisted development workflows, and refining engineering practices to deliver high-quality, production-grade software.
             </strong>
         </p>
     </div>

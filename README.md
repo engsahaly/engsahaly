@@ -10,6 +10,13 @@
         <a href="https://mahmoudanwar.com/"><img src="https://img.shields.io/badge/Website-My%20Website-blue" alt="My Website" /></a>
         <a href="mailto:engsahaly@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
     </div>
+    <div align=center>
+        <a href="https://bit.ly/3un0aFM"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://bit.ly/3NbatW9"><img src="https://img.shields.io/badge/Youtube-My%20Youtube%20Channel-red" alt="Youtube" /></a>
+        <a href="https://YOUR_UDEMY_LINK"><img src="https://img.shields.io/badge/Udemy-My%20Udemy%20Courses-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy" /></a>
+        <a href="https://mahmoudanwar.com/"><img src="https://img.shields.io/badge/Website-My%20Website-blue" alt="My Website" /></a>
+        <a href="mailto:engsahaly@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
+    </div>
     <div align=left>
         <br>
         <p>
@@ -26,20 +33,4 @@ Continuously learning, exploring AI-assisted development workflows, and refining
             </strong>
         </p>
     </div>
-    <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=engsahaly&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engsahaly&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=engsahaly&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-    </div>
 </div>
-
-------
-
-Credit: [Mahmoud Anwar](https://github.com/engsahaly)
-
-Last edited on: 12/07/2022

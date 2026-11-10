@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img alt="Mahmoud Anwar · Laravel Backend Engineer & Udemy Instructor" src="./assets/banner-light.png" width="100%">
+  <img alt="Mahmoud Anwar · Laravel Backend Engineer & Udemy Instructor" src="./assets/banner-dark.png" width="100%">
 </picture>
 
 <p align="center">
@@ -103,7 +103,7 @@ Most of my client work is private, so the full case studies live on my website:
 
 ### Tech stack
 
-- **Backend:** PHP · Laravel · Livewire · MySQL · REST APIs . Drupal . Filament . Testing(PHPUnit, Pest PHP)
+- **Backend:** PHP · Laravel · Livewire · MySQL · REST APIs . Drupal . Filament . Testing (PHPUnit, Pest PHP)
 - **Frontend:** Blade · JavaScript · JQuery . AJAX · Bootstrap · HTML · CSS
 - **Practices:** OOP · SOLID · Design patterns · Policy-based authorization
 - **Tools:** Git · Docker . GitHub Actions (CI/CD)

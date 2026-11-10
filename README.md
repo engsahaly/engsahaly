@@ -38,7 +38,7 @@ Most of my client work is private, so the full case studies live on my website:
 **Osool Daema Contracting App** · 
 **CCIT Software Solutions Platform** · 
 **Furniture Agencies Management System** · 
-**Wejha App** .
+**Wejha App** ·
 **Acadets Learning Platform**
 
 → [Read the case studies](https://mahmoudanwar.com/projects)

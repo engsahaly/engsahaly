@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img alt="Mahmoud Anwar · Laravel Backend Engineer & Udemy Instructor" src="./assets/banner-dark.png" width="100%">
+  <img alt="Mahmoud Anwar · Laravel Backend Engineer & Udemy Instructor" src="./assets/banner-light.png" width="100%">
 </picture>
 
 <p align="center">
